@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentação do Software</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            color: #333;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Documentação do Software</h1>
+    <p>Bem-vindo à documentação do software. Aqui você encontrará todas as informações necessárias para utilizar e contribuir com este projeto.</p>
+
+    <h2>Instalação</h2>
+    <p>Para instalar o software, siga os passos abaixo:</p>
+    <pre>
+        <code>
+        git clone https://github.com/seu_usuario/seu_projeto.git
+        cd seu_projeto
+        ./install.sh
+        </code>
+    </pre>
+
+    <h2>Uso</h2>
+    <p>Para utilizar o software, execute o seguinte comando:</p>
+    <pre>
+        <code>
+        ./run.sh
+        </code>
+    </pre>
+</body>
+</html>
